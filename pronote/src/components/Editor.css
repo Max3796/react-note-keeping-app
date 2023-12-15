@@ -1,0 +1,54 @@
+* {
+  text-align: left;
+  color: white;
+}
+.App {
+    width: 100vw;
+    height: 100vh;
+  background-color: rgb(105, 98, 98);
+}
+.output-text {
+  background-color: #343333;
+  width: 35vw;
+  height: 60vh;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  padding: 15px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  overflow-y: auto;
+}
+h1{
+    margin-left: 55%;
+}
+/* ::-webkit-scrollbar {
+    width: 0px;
+  } */
+
+.output {
+  margin-left: 10%;
+}
+
+.container {
+  display: flex;
+  padding-left: 10%;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.input-text {
+  border: #d2adad 2px solid;
+  background-color: #49494a;
+  width: 35vw;
+  height: 60vh;
+  resize: none;
+  border: none;
+  outline: none;
+  color: white;
+  /* height: 45vh; */
+  padding: 15px;
+
+}
+.pronote {
+  text-align: center;
+  color: white;
+}
