@@ -14,8 +14,8 @@
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   padding: 15px;
   word-wrap: break-word;
-  overflow-wrap: break-word;
   overflow-y: auto;
+  overflow-wrap: break-word;
 }
 h1{
     margin-left: 55%;
@@ -28,8 +28,6 @@ h1{
 .container {
   display: flex;
   padding-left: 10%;
-  /* justify-content: center; */
-  /* align-items: center; */
 }
 
 .input-text {
